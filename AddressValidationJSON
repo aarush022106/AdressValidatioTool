@@ -1,4 +1,14 @@
-{
-
+AddressValiaton{
+ "strContactBP" : "121",
+   "strContactID" : "121",
+    "lstStreet" :["100", "main st"],
+    "City" :["Libertyville"],
+    "Region" :["IL"],
+    "Country" :["US"],
+    "PostalCode" :["60048"],
+     "Firstname" :["jhon"],
+     "Lastname":["smith"],
+     "Phonenumber":[],
+    "Emailaddress":[]
 
 }
