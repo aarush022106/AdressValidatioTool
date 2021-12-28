@@ -1,1 +1,15 @@
-{"animals":["majestic badger","fluffy bunny","scary bear","chicken"]}
+"Address": {
+    "strContactBP": "121",
+    "strContactID": "121",
+    "strMainAddress":{
+        "Address1": {
+		      "street": "100 st",
+		      "city": "100 city"
+	    },
+	    "Address2": {
+		      "street": "100 st",
+		      "city": "100 city"
+	    }
+    }
+  }
+}
